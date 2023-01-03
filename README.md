@@ -39,7 +39,7 @@ The opportunity to have multiple hosts could make each session longer. If resour
 
  There is also the possibility of these being recorded (since this bit is purely educational, separated from Q&A) or can be kept a live experience, up to the hosts/Leons discretion. 
 
-I love the idea of coding challenges being done on twitch. It allows for reviewing (VODs), especially for folks who cant make it live, but at the same time for folks to ask questions live. It can also be a good way of building up the hosts' following, especially if they're part of the stream team. Q&A can be moved to Discord after the coding challenge is done - providing a 5+ min break/grace period before answering folks questions about the hunt.
+I love the idea of coding challenges being done on twitch. It allows for reviewing (VODs), especially for folks who cant make it live, but at the same time providing folks who can make it live to ask questions. It can also be a good way of building up the hosts' following, especially if they're part of the stream team. Q&A can be moved to Discord after the coding challenge is done - providing a 5+ min break/grace period before answering folks questions about the hunt.
 
 ### Spaced Repitition Planning
 I don't have the magical skills of Anki - but thanks to attending lovely 100Devs standups I am familiar with utilizing the Fibonacci Sequence. A sequence that looks pretty similar to Anki's spaced repitition model...
