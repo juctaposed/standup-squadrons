@@ -1,4 +1,9 @@
+<div align="center">
+
 # Standup Squadrons
+
+</div>
+
 The aim of this project is to contribute steps to make daily Standups becoming more self governing by the community and provide additional structure to those who might benefit from it. Particularly, reiterating important technical concepts folks may be seeing on their job hunt, while allowing the means to snowball or build their way up to more abstract concepts, and eventually perhaps provide rolling sprints for those who may be "catching up".
 
 ## Structure
@@ -25,7 +30,9 @@ Backbone for roadmap includes Sprints, Recalls, and Hosts
 
 
 ![sprint-recall](https://i.gyazo.com/fb55c27ad030b0ebc6e1b965c3a184b4.png)
-![roadmap-example](https://i.gyazo.com/f55f9c953cd910f3c6d7e57eb80fd641.png)
+<p align="center">
+  <img src="https://i.gyazo.com/f55f9c953cd910f3c6d7e57eb80fd641.png">
+</p>
 
 Mapping out the process would look something like this. Obviously the actual topics need to be set by Leon or someone with more technical expertise, but this would provide a consistent path for hitting common technical concepts seen in coding challenges while giving lieway for breaks/other things to be added.
 
@@ -49,18 +56,27 @@ I don't have the magical skills of Anki - but thanks to attending lovely 100Devs
 
 ![:thinking:](https://images.emojiterra.com/twitter/v14.0/128px/1f914.png)
 
+<p align="center">
 Here is an extremely poorly illustrated diagram of fibonacci sprints/recall cycles represented on a calendar:
-![calendar](https://i.gyazo.com/4ab223843c2db8955766d027a5ad0fe4.png)
+<br></br>
+  <img src="https://i.gyazo.com/4ab223843c2db8955766d027a5ad0fe4.png">
+</p>
 
->Red underscore: Fundamental coverage
+<span align="center">
+
+>Red underscore: Sprint 1 (Fundamental coverage)
 >
->Blue underscore: String Method coverage
+>Blue underscore: Sprint 2 (String Method coverage)
 >
->Green underscore: Array Method coverage
+>Green underscore: Sprint 3 (Array Method coverage)
+
+</span>
 
 Each sprint roughly represents a two week period with tight focused learning on one sprint subject, followed by 2 recalls spaced out approximately 8 and 13 days later. This isn't perfect, but we're plotting on calendars with holidays and observances so it's not always going to be 100% perfect.
 
 For example, Fundamentals Sprint is depicted occuring from Jan 3 - Feb 21, consisting of
+
+<span align="center">
 
 >Totals Days: 49
 >
@@ -70,12 +86,17 @@ For example, Fundamentals Sprint is depicted occuring from Jan 3 - Feb 21, consi
 >
 >Holidays: 2 (Jan 16/Feb 20)
 
-
+</span>
 
 The general idea with Fibonacci sprints is heavy learning in the first month, focused recall in the second, and then sprint complete. This specific example increments up to Fib(9), we can branch that out higher if needed but this format provides 3 sprints to wrap up in ~2 months with decent spaces/breaks allowed in the second month. Depending on how many different types of sprints being planned, we could also have rolling sprints: 
 
+<span align="center">
+
 e.g.
+
 >Jan-Feb/Jun-Jul/Nov-Dec => Fundamentals, Strings, & Arrays
+
+</span>
 
 That's of course constrained by number of volunteers & desired pace of concepts.
 
@@ -85,12 +106,17 @@ That's of course constrained by number of volunteers & desired pace of concepts.
 To keep track of specific sprints and recalls, we can organize each roadmap into "squadrons" to organize where each squad is at on their roadmap, as well hosts for each squad.
 
 If we were to plan rolling sprints like stated above, We could say the following:
+
+<span align="center">
+
 >
->Jan-Feb => Fundamentals, Strings, Arrays => Squadron 1
+>Jan-Feb => Fundamentals, Strings, Arrays => Squadron 1 - Sprint 1,2,3
 >
->Jun-Jul => Fundamentals, Strings, Arrays => Squadron 2
+>Jun-Jul => Fundamentals, Strings, Arrays => Squadron 2 - Sprint 1,2,3
 >
->Nov-Dec => Fundamentals, Strings, Arrays => Squadron 3
+>Nov-Dec => Fundamentals, Strings, Arrays => Squadron 3 - Sprint 1,2,3
+
+</span>
 
 This would allow folks from Squad 1 to continue onto more advanced sprints come March/April, and allow newer folks at this time to start codewars to prep for Squad 2, which would then move onto advanced sprints come Aug/Sep.
 Ideally it becomes a cycle for folks to have a place to jump in alongside others no matter where they are in their journey.
