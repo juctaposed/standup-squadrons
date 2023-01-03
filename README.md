@@ -98,7 +98,7 @@ Ideally it becomes a cycle for folks to have a place to jump in alongside others
 This could be setup and maintained all on GitHub with their Kanban board, hosts being assigned the desired sprint under any given Squad. 
 
 Here's a quick mock up:
-![kanban-squads](https://i.gyazo.com/5b2845c8193a5ce7c40949d7eaa5a96f.png)
+![kanban-squads](https://i.gyazo.com/0a38863c30f5034433bc28017990d40a.png)
 
 
 ### Conclusion
