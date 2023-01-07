@@ -36,17 +36,6 @@ Backbone for roadmap includes Sprints, Recalls, and Hosts
 
 Mapping out the process would look something like this. Obviously the actual topics need to be set by Leon or someone with more technical expertise, but this would provide a consistent path for hitting common technical concepts seen in coding challenges while giving leeway for breaks/other things to be added.
 
-### Optimizations
-If these sprints/recalls are being PREP'd out fully each time, sessions can take ~30 minutes, perhaps longer.
-The opportunity to have multiple hosts could make each session longer. If resources allow, we could have 2 hosts emulating a mock interview system:
-
-> Host 1 introduces a coding challenge that Host 2 must solve, Host 2 emphasizing PREP system and communication. Perhaps a group of hosts to add to simulation of nerves ;)
-
->>Personally, I found watching Leon PREPing out problems super valuable as a stepping stone to how I should be approaching them. e.g. nailing home how to think about string inputs (what characters? Num/Letters/Specials? Empty inputs?) and things of that nature was a big "ah-ha" moment for me. It might ease some peoples nerves to see how it's done in a "genuine" interview environment, calming one of many anxieties during this process... perhaps a gradual shift into mock interviews toward the end of sprints, or maybe just recalls can be mocks? Would love to hear ideas on this
-
- There is also the possibility of these being recorded (since this bit is purely educational, separated from Q&A) or can be kept a live experience, up to the hosts/Leons discretion. 
-
-I love the idea of coding challenges being done on twitch. It allows for reviewing (VODs), especially for folks who cant make it live, but at the same time providing folks who can make it live to ask questions. It can also be a good way of building up the hosts' following, especially if they're part of the stream team. Q&A can be moved to Discord after the coding challenge is done - providing a 5+ min break/grace period before answering folks questions about the hunt.
 
 ### Spaced Repetition Planning
 I don't have the magical skills of Anki - but thanks to attending lovely 100Devs standups I am familiar with utilizing the Fibonacci Sequence. A sequence that looks pretty similar to Anki's spaced repetition model...
@@ -126,6 +115,17 @@ This could be setup and maintained all on GitHub with their Kanban board, hosts 
 Here's a quick mock up:
 ![kanban-squads](https://i.gyazo.com/0a38863c30f5034433bc28017990d40a.png)
 
+### Optimizations
+If these sprints/recalls are being PREP'd out fully each time, sessions can take ~30 minutes, perhaps longer.
+The opportunity to have multiple hosts could make each session longer. If resources allow, we could have 2 hosts emulating a mock interview system:
+
+> Host 1 introduces a coding challenge that Host 2 must solve, Host 2 emphasizing PREP system and communication. Perhaps a group of hosts to add to simulation of nerves ;)
+
+>>Personally, I found watching Leon PREPing out problems super valuable as a stepping stone to how I should be approaching them. e.g. nailing home how to think about string inputs (what characters? Num/Letters/Specials? Empty inputs?) and things of that nature was a big "ah-ha" moment for me. It might ease some peoples nerves to see how it's done in a "genuine" interview environment, calming one of many anxieties during this process... perhaps a gradual shift into mock interviews toward the end of sprints, or maybe just recalls can be mocks? Would love to hear ideas on this
+
+ There is also the possibility of these being recorded (since this bit is purely educational, separated from Q&A) or can be kept a live experience, up to the hosts/Leons discretion. 
+
+I love the idea of coding challenges being done on twitch. It allows for reviewing (VODs), especially for folks who cant make it live, but at the same time providing folks who can make it live to ask questions. It can also be a good way of building up the hosts' following, especially if they're part of the stream team. Q&A can be moved to Discord after the coding challenge is done - providing a 5+ min break/grace period before answering folks questions about the hunt.
 
 ### Conclusion
 Hopefully this gives ideas for a system that can be set up to benefit folks on their journey and alleviate the time Leon puts in for daily standups. It can be modified in many ways, including the fib scheduling, sprint/recall/hosts setup, topics covered etc.
